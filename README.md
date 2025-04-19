@@ -35,27 +35,28 @@ To clean, transform, and analyze Blinkit sales data to generate meaningful busin
 
 \`\`\`
 blinkit-sales-analysis/
-│
-├── preprocessing/                    # Data preprocessing scripts
-│   ├── null_fix.ipynb                # Jupyter notebook to clean missing values
-│   └── requirements.txt              # Project dependencies (e.g., pandas)
-│
-├── data/                             # Datasets
-│   ├── blinkit_data_sample.csv       # Raw (sample) dataset
-│   └── blinkit_data_cleaned.csv      # Cleaned dataset after preprocessing
-│
-├── scripts/                          # SQL scripts for analysis
-│   ├── 01_data_cleaning.sql          # SQL updates after importing data
-│   ├── 02_kpis.sql                   # Key Performance Indicator queries
-│   ├── 03_granular_analysis.sql      # Detailed sales breakdowns
-│   └── 04_views.sql                  # Reusable views for analytics
-│
-├── visuals/                          # Power BI dashboards and visuals
-│   ├── Blinkit_Sales_Dashboard.pbix  # Power BI dashboard file
-│   └── dashboard_preview.png         # Screenshot of dashboard (for README)
-│
-└── output/                           # Final results & insights
-    └── insights_summary.md           # Business insights & key takeaways
+├── README.md                  # Project overview and setup guide
+├── requirements.txt           # Project dependencies (e.g., pandas, numpy)
+
+├── data/                      # Raw and cleaned datasets
+│   ├── blinkit_data_sample.csv      # Raw (sample) dataset
+│   └── blinkit_data_cleaned.csv     # Cleaned dataset after preprocessing
+
+├── preprocessing/             # Python-based preprocessing scripts
+│   └── null_fix.ipynb               # Jupyter notebook to clean missing values
+
+├── scripts/                   # SQL scripts for data processing & analysis
+│   ├── 01_data_cleaning.sql        # SQL cleanup after importing data
+│   ├── 02_kpis.sql                 # KPI queries (e.g., revenue, AOV)
+│   ├── 03_granular_analysis.sql    # Detailed breakdowns (by category, region, etc.)
+│   └── 04_views.sql                # Reusable SQL views for analytics
+
+├── visuals/                   # Power BI visuals & dashboard
+│   ├── Blinkit_Sales_Dashboard.pbix # Main Power BI dashboard file
+│   └── dashboard_preview.png       # Dashboard screenshot for quick view or README
+
+└── output/                    # Final results and business insights
+    └── insights_summary.md         # Summary of key findings and takeaways
 
 
 \`\`\`
