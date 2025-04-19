@@ -65,24 +65,30 @@ blinkit-sales-analysis/
 
 ## 📈 Sample Insights
 
-- 🧈 **Regular fat** items generate more sales than **low-fat**
-- 🏬 **Medium-sized outlets** outperform small and high-end ones
-- ⭐ **Dairy and snack foods** have the highest average ratings
-- 📍 **Urban locations** dominate overall sales share
-
+- 🧈 **Regular fat** items generate more sales than **low-fat**  
+- 🏬 **Medium-sized outlets** outperform small and high-end ones  
+- ⭐ **Dairy and snack foods** have the highest average ratings  
+- 📍 **Urban locations** dominate overall sales share  
 
 📄 [Click here to view the full insights summary](./output/insights_summary.md)
 
-
 ---
 
-## 📌 Future Improvements
+## 📊 Power BI Dashboard & Presentation
 
-- Add visualizations using **Power BI** or **Tableau**
+The sales insights were visualized using **Power BI** to create an interactive dashboard, highlighting trends across item types, outlet sizes, fat content, and urban vs rural sales distribution.
 
+🖥️ **Dashboard Includes:**
+- Total Sales, Ratings, and Volume KPIs  
+- Sales comparison by Item Type & Fat Content  
+- Outlet Type performance across regions  
+- Location-wise sales breakdown
 
-## 📬 Contact
+📸 *Preview:*  
+![Dashboard Preview](./visuals/dashboard_preview.png)
 
-Made with 💻 by **[Your Name]**  
-📧 your.email@example.com  
-🔗 [LinkedIn](#) | [GitHub](#)
+🎤 **Presentation:**  
+A walkthrough presentation explaining the insights, methodology, and business takeaways is available in the `visuals/` folder.  
+> 📂 `visuals/Blinkit_Sales_Presentation.pptx`
+
+---
