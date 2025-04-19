@@ -1,20 +1,19 @@
+# 🛒 Blinkit Sales Analysis using SQL, Python & Power BI
 
-# 🛒 Blinkit Sales Analysis using SQL & Python
-
-This project analyzes sales data from Blinkit (a grocery delivery platform) using MySQL and Python (Pandas). It extracts insights like total revenue, item-level performance, and outlet-wise trends, while showcasing real-world data cleaning and analytics workflows.
+This project analyzes sales data from Blinkit (a grocery delivery platform) using **MySQL**, **Python (Pandas)**, and **Power BI**. It extracts insights like total revenue, item-level performance, and outlet-wise trends, while showcasing real-world data cleaning, visualization, and analytics workflows.
 
 ---
 
 ## 📊 Project Overview
 
 **Objective:**  
-To clean, transform, and analyze Blinkit sales data to generate meaningful business insights using SQL and Python.
+To clean, transform, visualize, and analyze Blinkit sales data to generate meaningful business insights using SQL, Python, and Power BI.
 
 **Key Areas Covered:**
-- Data Cleaning (Pandas + SQL)
+- Data Cleaning (SQL + Pandas)
 - KPIs (Total Sales, Average Rating, etc.)
 - Sales Breakdown (by Item Type, Fat Content, Outlet Type)
-- Stored Procedures & Views for real-time analytics
+- Views for real-time analytics
 
 ---
 
@@ -22,44 +21,27 @@ To clean, transform, and analyze Blinkit sales data to generate meaningful busin
 
 - **SQL (MySQL)** – Data querying, cleaning, KPI reporting  
 - **Python (Pandas)** – Data preprocessing before import  
+- **Power BI** – Interactive dashboards and visual insights  
 - **GitHub** – Version control and project sharing
 
 ---
+
 ## ⚙️ Setup Notes
 > The initial schema was generated using MySQL's **Table Data Import Wizard** from CSV files.  
 > After import, **data types were cleaned and adjusted**, and **null values were handled** by [null_fix.ipynb](./preprocessing/null_fix.ipynb) (located in the `preprocessing/` folder).  
 > Additional data cleaning was performed via SQL script by [01_data_cleaning_sql](./preprocessing/01_data_cleaning_sql) (located in the `/scripts/` folder).
 
 ---
+
+## 🌟 Highlights
+
+- 🚀 Cleaned and transformed real-world sales data using SQL & Python  
+- 📊 Built reusable views for efficient reporting  
+- 📈 Delivered visual insights via Power BI dashboard  
+
+---
+
 ## 🗂 Project Structure
-
-\`\`\`
-blinkit-sales-analysis/
-├── README.md                  # Project overview and setup guide
-├── requirements.txt           # Project dependencies (e.g., pandas, numpy)
-
-├── data/                      # Raw and cleaned datasets
-│   ├── blinkit_data_sample.csv      # Raw (sample) dataset
-│   └── blinkit_data_cleaned.csv     # Cleaned dataset after preprocessing
-
-├── preprocessing/             # Python-based preprocessing scripts
-│   └── null_fix.ipynb               # Jupyter notebook to clean missing values
-
-├── scripts/                   # SQL scripts for data processing & analysis
-│   ├── 01_data_cleaning.sql        # SQL cleanup after importing data
-│   ├── 02_kpis.sql                 # KPI queries (e.g., revenue, AOV)
-│   ├── 03_granular_analysis.sql    # Detailed breakdowns (by category, region, etc.)
-│   └── 04_views.sql                # Reusable SQL views for analytics
-
-├── visuals/                   # Power BI visuals & dashboard
-│   ├── Blinkit_Sales_Dashboard.pbix # Main Power BI dashboard file
-│   └── dashboard_preview.png       # Dashboard screenshot for quick view or README
-
-└── output/                    # Final results and business insights
-    └── insights_summary.md         # Summary of key findings and takeaways
-
-
-\`\`\`
 
 ---
 
