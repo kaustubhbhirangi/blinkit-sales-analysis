@@ -37,14 +37,8 @@ To clean, transform, visualize, and analyze Blinkit sales data to generate meani
 
 - 🚀 Cleaned and transformed real-world sales data using SQL & Python  
 - 📊 Built reusable views for efficient reporting  
-- 📈 Delivered visual insights via Power BI dashboard  
-
----
-
-## 🗂 Project Structure
-
-
-
+- 📈 Delivered visual insights via Power BI dashboard
+- 
 ---
 
 ## 📈 Sample Insights
