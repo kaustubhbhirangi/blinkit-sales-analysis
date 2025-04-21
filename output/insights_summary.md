@@ -25,7 +25,7 @@
 ---
 
 ### 🕰️ Outlet Age & Sales Trends  
-- **Older outlets** (established before 2000) demonstrate consistent, moderate performance.  
+- **Older outlets** (established before 2010) demonstrate consistent, moderate performance.  
 - **Newer outlets** (opened post-2010) show stronger total sales — suggesting successful scaling and increased demand.
 
 ---
