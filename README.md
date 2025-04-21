@@ -68,6 +68,6 @@ The sales insights were visualized using **Power BI** to create an interactive d
 Explore the insights, methodology, and business takeaways directly within the Power BI dashboard.
 
 📊 [Click here to open the full interactive dashboard](./visuals//Blinkit_Sales_Dashboard.pbix) (located in the `visuals/` folder)
-⚠️ Note: To view the .pbix file, you’ll need Power BI Desktop, which is free to download.
+- ⚠️ Note: To view the .pbix file, you’ll need Power BI Desktop, which is free to download.
 
 ---
