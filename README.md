@@ -67,6 +67,6 @@ The sales insights were visualized using **Power BI** to create an interactive d
 🎤 **Interactive Dashboard:**  
 Explore the insights, methodology, and business takeaways directly within the Power BI dashboard.
 
-📊 [Click here to open the full interactive dashboard](./visuals//Blinkit_Sales_Dashboard.pbix) (located in the visuals//Blinkit_Sales_Dashboard.pbix)
+📊 [Click here to open the full interactive dashboard](./visuals//Blinkit_Sales_Dashboard.pbix) (located in the visuals/Blinkit_Sales_Dashboard.pbix)
 
 ---
