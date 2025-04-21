@@ -42,10 +42,11 @@ To clean, transform, visualize, and analyze Blinkit sales data to generate meani
 
 ## 📈 Sample Insights
 
-- 🧈 **Regular fat** items generate more sales than **low-fat**  
+- 🧈 **Low fat** items generate more sales than **low-fat**  
 - 🏬 **Medium-sized outlets** outperform small and high-end ones  
-- ⭐ **Dairy and snack foods** have the highest average ratings  
-- 📍 **Urban locations** dominate overall sales share  
+- ⭐ **Meat and Household** items have the highest average ratings
+- 📈 **Fruits and Dairy** items have the highest sales
+- 📍 **Tier 3 locations** dominate overall sales share  
 
 📄 [Click here to view the full insights summary](./output/insights_summary.md)
 
