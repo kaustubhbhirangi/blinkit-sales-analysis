@@ -66,6 +66,6 @@ The sales insights were visualized using **Power BI** to create an interactive d
 
 🎤 **Presentation:**  
 A walkthrough presentation explaining the insights, methodology, and business takeaways is available in the `visuals/` folder.  
-> 📂 `visuals/Blinkit_Sales_Presentation.pptx`
+📄 [Click here to view the full presentation walkthrough](./visuals/Blinkit_Sales_Presentation.pptx)
 
 ---
