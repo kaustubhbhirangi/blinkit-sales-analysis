@@ -19,7 +19,7 @@
 
 ### 🏬 Outlet Size & Location Analysis  
 - **Tier 3 outlets** consistently generate the highest total revenue across all regions.  
-- **Tier 2 outlets**, while offering fewer products and lower sales volume, report **higher average ratings**.  
+- **Small sized outlets**, while offering fewer products and lower sales volume, report **higher average ratings**.  
 - **Tier 1 locations** account for the bulk of sales, particularly favoring both (Regular & Low fat) product categories.
 
 ---
