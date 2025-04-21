@@ -29,7 +29,7 @@ To clean, transform, visualize, and analyze Blinkit sales data to generate meani
 ## ⚙️ Setup Notes
 > The initial schema was generated using MySQL's **Table Data Import Wizard** from CSV files.  
 > After import, **data types were cleaned and adjusted**, and **null values were handled** by [null_fix.ipynb](./preprocessing/null_fix.ipynb) (located in the `preprocessing/` folder).  
-> Additional data cleaning was performed via SQL script by [01_data_cleaning_sql](./preprocessing/01_data_cleaning_sql) (located in the `/scripts/` folder).
+> Additional data cleaning was performed via SQL script by [01_data_cleaning_sql](./preprocessing/01_data_cleaning_sql) (located in the `scripts/` folder).
 
 ---
 
@@ -67,6 +67,6 @@ The sales insights were visualized using **Power BI** to create an interactive d
 🎤 **Interactive Dashboard:**  
 Explore the insights, methodology, and business takeaways directly within the Power BI dashboard.
 
-📊 [Click here to open the full interactive dashboard](./visuals//Blinkit_Sales_Dashboard.pbix) (located in the visuals/Blinkit_Sales_Dashboard.pbix)
+📊 [Click here to open the full interactive dashboard](./visuals//Blinkit_Sales_Dashboard.pbix) (located in the `visuals/` folder)
 
 ---
